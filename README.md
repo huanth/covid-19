@@ -1,4 +1,1 @@
-git clone https://github.com/huanth/covid-19
-cd covid-19
-npm install
-npm start
+Site deploy: https://elastic-shaw-f85d46.netlify.app/
